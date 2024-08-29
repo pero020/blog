@@ -16,7 +16,7 @@ minify:
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ZTZ Blog
+  title: ZeroTwoZero Blog
   description: "ExampleSite description"
   keywords: [Blog, Portfolio, PaperMod]
   author: Me
@@ -52,7 +52,7 @@ params:
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "ZeroTwoZero Blog"
+    text: "ZTZ Blog"
     icon: /apple-touch-icon.png
     iconHeight: 35
 
