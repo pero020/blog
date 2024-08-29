@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>New on ZeroTwoZero Blog</title>
+    <link>http://localhost:51374/tags/new/</link>
+    <description>Recent content in New on ZeroTwoZero Blog</description>
+    <image>
+      <title>ZeroTwoZero Blog</title>
+      <url>http://localhost:51374/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>http://localhost:51374/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- 0.133.0</generator>
+    <language>en</language>
+    <lastBuildDate>Thu, 29 Aug 2024 15:11:36 +0200</lastBuildDate>
+    <atom:link href="http://localhost:51374/tags/new/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Third Post123453</title>
+      <link>http://localhost:51374/posts/third-post123453/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:36 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post123453/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post123457</title>
+      <link>http://localhost:51374/posts/third-post123457/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:30 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post123457/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post123456</title>
+      <link>http://localhost:51374/posts/third-post123456/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:28 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post123456/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post12345</title>
+      <link>http://localhost:51374/posts/third-post12345/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:27 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post12345/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post1234</title>
+      <link>http://localhost:51374/posts/third-post1234/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:25 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post1234/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post123</title>
+      <link>http://localhost:51374/posts/third-post123/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:24 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post123/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post12</title>
+      <link>http://localhost:51374/posts/third-post12/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:22 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post12/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post1</title>
+      <link>http://localhost:51374/posts/third-post1/</link>
+      <pubDate>Thu, 29 Aug 2024 15:11:20 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    <item>
+      <title>Third Post</title>
+      <link>http://localhost:51374/posts/third-post/</link>
+      <pubDate>Thu, 29 Aug 2024 15:08:50 +0200</pubDate>
+      <guid>http://localhost:51374/posts/third-post/</guid>
+      <description>Desc Text.</description>
+    </item>
+  </channel>
+</rss>
