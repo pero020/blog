@@ -1,6 +1,6 @@
 ---
 title: The Importance of Failure
-date: 2024-08-29T20:08:50+02:00
+date: 2024-09-01T01:35:50+02:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["failure", "rambling"]
