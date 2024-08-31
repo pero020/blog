@@ -1,4 +1,4 @@
-baseURL: "https://blog.zerotwozero.com/"
+baseURL: "https://blog.ztz.app/"
 title: ZeroTwoZero Blog
 paginate: 5
 theme: PaperMod
@@ -38,7 +38,7 @@ params:
   disableSpecial1stPost: false
   disableScrollToTop: false
   comments: false
-  hidemeta: true
+  hidemeta: false
   hideSummary: false
   showtoc: false
   tocopen: false
@@ -136,19 +136,20 @@ outputs:
   home:
     - HTML
     - RSS
-    - JSON 
-
+    - JSON
 
 defaultContentLanguage: en
 languages:
   en:
-    languageName: "Show English Blogs"
+    languageName: "English"
+    languageCode: en-US
     contentDir: content/en
     weight: 1
   hr:
-    languageName: "Show Croatian Blogs"
+    languageName: "Croatian"
+    languageCode: hr-HR
     contentDir: content/hr
-    params: 
+    params:
       homeInfoParams:
         Title: "Pozdrav \U0001F44B"
         Content: Ovo je mjesto za moje misli
