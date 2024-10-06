@@ -1,6 +1,6 @@
 ---
 title: Introvert Extrovert
-date: 2024-08-29T20:08:50+02:00
+date: 2024-10-06T21:24:12+02:00
 # weight: 1
 # aliases: ["/first"]
 tags: ["new"]
