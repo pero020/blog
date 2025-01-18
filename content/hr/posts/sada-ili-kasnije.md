@@ -35,16 +35,16 @@ cover:
 #     Text: "Suggest Changes" # edit text
 #     appendFilePath: true # to append file path to Edit link
 ---
-Uzmem i spremim
+Uzmem i spremim  
 sada ili kasnije
 
-Ne sada
-ne kasnije
+Ne sada  
+ne kasnije  
 Spremim.
 
-Kada je kasnije?
-Dan je pun i um je pun
-dan je prazan, ali um je pun
-Čuvam.
-Potrošim.
+Kada je kasnije?  
+Dan je pun i um je pun  
+dan je prazan, ali um je pun  
+Čuvam.  
+Potrošim.  
 Zaboravim.
