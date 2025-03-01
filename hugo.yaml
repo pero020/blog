@@ -152,5 +152,5 @@ languages:
     params:
       homeInfoParams:
         Title: "Pozdrav \U0001F44B"
-        Content: Ovo je mjesto za moje misli
+        Content: Polako i sigurno
     weight: 2
